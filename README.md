@@ -6,7 +6,7 @@
 ---
 
 ### 🔥 About Me  
-- 🎓 2nd-year **B.Tech CSE (AI & Analytics)** student at **MIT-ADT University, Pune**  
+- 🎓 3rd-year **B.Tech CSE (AI & Analytics)** student at **MIT-ADT University, Pune**  
 - 💻 Passionate about **Full-Stack Development (MERN)**  
 - 🎨 Exploring **UI/UX design** to craft seamless user experiences  
 - 🤖 Learning **AI + Data Analytics** to build intelligent applications  
