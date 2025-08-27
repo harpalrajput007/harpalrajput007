@@ -6,11 +6,11 @@
 ---
 
 ### 🔥 About Me  
-- 🎓 3rd-year **B.Tech CSE (AI & Analytics)** student at **MIT-ADT University, Pune**  
-- 💻 Passionate about **Full-Stack Development (MERN)**  
-- 🎨 Exploring **UI/UX design** to craft seamless user experiences  
-- 🤖 Learning **AI + Data Analytics** to build intelligent applications  
-- 🚀 Always curious, building, and experimenting with new tech  
+- 🎓 **B.Tech CSE (AI & Analytics)** student at **MIT-ADT University, Pune**  
+- 💻 Skilled in building **scalable full-stack applications** (MERN)  
+- 🎨 Passionate about **UI/UX design** – blending creativity with technology  
+- 🤖 Exploring **AI and Data Analytics** to craft intelligent solutions  
+- 🚀 Always learning, innovating, and bringing ideas to life  
 
 ---
 
@@ -28,36 +28,28 @@
 
 ---
 
-### 📌 Featured Projects  
+### 🚀 Featured Projects  
 - 🏦 **LakshArth** – Full-Stack Investment Management Platform  
 - 🎥 **Vaarta** – Real-time Video Meeting App (WebRTC + Socket.IO)  
 - 🤖 **VisionGPT** – AI-Powered Chat Application (LLM + JWT Auth)  
 - 🌍 **Safarnama** – Travel Listing Platform (Node.js + EJS + MongoDB)  
 
-➡️ *Check more at my [Repositories](https://github.com/harpalrajput007?tab=repositories)*  
+➡️ *Explore more at my [Repositories](https://github.com/harpalrajput007?tab=repositories)*  
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harpalrajput007&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpalrajput007&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harpalrajput007&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpalrajput007&theme=tokyonight&hide_border=true" height="165"/>
 </p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpalrajput007&layout=compact&theme=radical" height="165"/>
-</p>
 
 ---
 
-### ⚡ Fun Animation  
+### ⚡ Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harpalrajput007&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harpalrajput007&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harpalrajput007&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
 
 ---
 
