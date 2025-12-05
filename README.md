@@ -1,91 +1,74 @@
-<!-- Advanced GitHub Profile README for Harpal Rajput (Fixed & Stable Version) -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=3000&pause=1200&color=00E7FF&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Harpal+Rajput;Full+Stack+MERN+Developer;UI%2FUX+Designer;AI+%26+Analytics+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG"/>
-</p>
-
-<h1 align="center">🚀 MERN Web Developer | 🎨 UI/UX Designer | 🤖 AI & Analytics Enthusiast</h1>
+<h1 align="center">Hi 👋, I'm Harpal Rajput</h1>
+<h3 align="center">🚀 MERN Web Developer | 🎨 UI/UX Designer | 🤖 AI & Analytics Enthusiast</h3>
 
 ---
 
 ## 🔥 About Me  
 - 🎓 3rd-year **B.Tech CSE (AI & Analytics)** student at **MIT-ADT University, Pune**  
 - 💻 Passionate about **Full-Stack Development (MERN)**  
-- 🎨 Exploring **UI/UX design** to craft seamless user experiences  
-- 🤖 Learning **AI + Data Analytics** to build intelligent applications  
-- 🚀 Always curious, building & experimenting with new tech  
+- 🎨 Exploring **UI/UX design** to create seamless user experiences  
+- 🤖 Learning AI, ML & Analytics to build smart applications  
+- 🚀 Always improving, building, experimenting  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 **Core Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind" height="50"/>
-</p>
+### 💻 **Frontend & Backend**
+🟢 React  
+🟢 Node.js  
+🟢 Express  
+🟢 MongoDB  
+🟠 JavaScript  
+🔵 HTML & CSS  
+🟣 Tailwind  
+🟣 Bootstrap  
 
-### 🎨 **UI/UX & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" height="50"/>
-</p>
+### 🎨 **Design & Tools**
+🟡 Figma  
+⚫ Git, GitHub  
+🔵 VS Code  
 
-### 🤖 **AI + Analytics**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="50"/>
-</p>
+### 🤖 **AI & Analytics**
+🐍 Python  
+🔶 TensorFlow  
 
 ---
 
-## 🏆 Featured Projects
+## 📌 Featured Projects  
 
 - 🏦 **LakshArth** – Full-Stack Investment Management Platform  
-- 🎥 **Vaarta** – Real-time Video Meeting App *(WebRTC + Socket.IO)*  
-- 🤖 **VisionGPT** – AI-Powered Chat Application *(LLM + JWT Auth)*  
-- 🌍 **Safarnama** – Travel Listing Platform *(Node.js + EJS + MongoDB)*  
+- 🎥 **Vaarta** – Real-Time Video Meeting App (WebRTC + Socket.IO)  
+- 🤖 **VisionGPT** – AI Chat App with JWT Auth + LLM API  
+- 🌍 **Safarnama** – Travel Listing Platform (Node + EJS + MongoDB)  
 
-➡️ *See more in my* ➝ **[GitHub Repositories](https://github.com/harpalrajput007?tab=repositories)**  
-
----
-
-## 📊 GitHub Stats (Stable Versions)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harpalrajput007&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=harpalrajput007&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats"/>
-</p>
+➡️ *Explore all projects:*  
+👉 **https://github.com/harpalrajput007?tab=repositories**
 
 ---
 
-## 📈 Contribution Graph (Stable)
+## 📊 GitHub Highlights  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harpalrajput007&theme=tokyo-night" alt="graph"/>
-</p>
-
----
-
-## 🏅 GitHub Achievements (Stable)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harpalrajput007&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+- ⭐ **Active Open-Source Contributor**  
+- 🔥 **Working on MERN + AI Projects**  
+- 🚀 **Building full-stack real-world applications**  
 
 ---
 
-## 👀 Visitor Count
+## 🏅 Badges  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harpalrajput007&style=for-the-badge&color=blue" />
-</p>
+![Profile Views](https://img.shields.io/badge/Visitors-✔️-blue?style=for-the-badge)  
+![MERN](https://img.shields.io/badge/MERN-Developer-brightgreen?style=for-the-badge)  
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-purple?style=for-the-badge)  
+![AI](https://img.shields.io/badge/AI%20%26%20Analytics-Enthusiast-orange?style=for-the-badge)
 
 ---
 
 ## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harpalrajput007"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="mailto:harpalsinghrajput007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://github.com/harpalrajput007"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-</p>
+📎 **LinkedIn:** www.linkedin.com/in/harpalrajput007  
+📧 **Email:** harpalsinghrajput007@gmail.com  
+💻 **GitHub:** github.com/harpalrajput007  
 
 ---
 
