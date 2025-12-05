@@ -1,75 +1,91 @@
-<h1 align="center">Hi 👋, I'm Harpal Rajput</h1>
-<h3 align="center">🚀 MERN Web Developer | 🎨 UI/UX Designer | 🤖 AI & Analytics Enthusiast</h3>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Harpal+Rajput+👋;MERN+Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;AI+%2B+Analytics+Enthusiast+🤖" />
+</p>
 
 ---
 
-## 🔥 About Me  
-- 🎓 3rd-year **B.Tech CSE (AI & Analytics)** student at **MIT-ADT University, Pune**  
-- 💻 Passionate about **Full-Stack Development (MERN)**  
-- 🎨 Exploring **UI/UX design** to create seamless user experiences  
-- 🤖 Learning AI, ML & Analytics to build smart applications  
-- 🚀 Always improving, building, experimenting  
+<!-- Animated GIF Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/SG5v5QL.gif" width="700"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 💻 **Frontend & Backend**
-🟢 React  
-🟢 Node.js  
-🟢 Express  
-🟢 MongoDB  
-🟠 JavaScript  
-🔵 HTML & CSS  
-🟣 Tailwind  
-🟣 Bootstrap  
-
-### 🎨 **Design & Tools**
-🟡 Figma  
-⚫ Git, GitHub  
-🔵 VS Code  
-
-### 🤖 **AI & Analytics**
-🐍 Python  
-🔶 TensorFlow  
+## ⚡ About Me  
+- 🎓 3rd-year **CSE (AI & Analytics)** student at **MIT ADT University**  
+- 🚀 MERN Stack Developer (React · Node · Express · MongoDB)  
+- 🎨 UI/UX Designer (Figma · Tailwind · Modern Web)  
+- 🤖 Learning AI, ML, Data Analytics  
+- 🔥 Passionate about building real-world impactful apps  
 
 ---
 
-## 📌 Featured Projects  
+## 🛠 Tech Stack (Live Icons)
 
-- 🏦 **LakshArth** – Full-Stack Investment Management Platform  
-- 🎥 **Vaarta** – Real-Time Video Meeting App (WebRTC + Socket.IO)  
-- 🤖 **VisionGPT** – AI Chat App with JWT Auth + LLM API  
-- 🌍 **Safarnama** – Travel Listing Platform (Node + EJS + MongoDB)  
-
-➡️ *Explore all projects:*  
-👉 **https://github.com/harpalrajput007?tab=repositories**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,figma,python,tensorflow,git,github,vscode&perline=8" />
+</p>
 
 ---
 
-## 📊 GitHub Highlights  
+## 🚀 Featured Projects  
+### 🔥 LakshArth  
+Investment Management Platform (MERN)
 
-- ⭐ **Active Open-Source Contributor**  
-- 🔥 **Working on MERN + AI Projects**  
-- 🚀 **Building full-stack real-world applications**  
+### 🎥 Vaarta  
+Real-time video meeting app (WebRTC + Socket.IO)
 
----
+### 🤖 VisionGPT  
+AI Chat App (JWT + LLM API)
 
-## 🏅 Badges  
+### 🌍 Safarnama  
+Travel Listing Web App (Node + EJS + MongoDB)
 
-![Profile Views](https://img.shields.io/badge/Visitors-✔️-blue?style=for-the-badge)  
-![MERN](https://img.shields.io/badge/MERN-Developer-brightgreen?style=for-the-badge)  
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-purple?style=for-the-badge)  
-![AI](https://img.shields.io/badge/AI%20%26%20Analytics-Enthusiast-orange?style=for-the-badge)
-
----
-
-## 🌐 Connect with Me  
-
-📎 **LinkedIn:** www.linkedin.com/in/harpalrajput007  
-📧 **Email:** harpalsinghrajput007@gmail.com  
-💻 **GitHub:** github.com/harpalrajput007  
+➡️ More here: **github.com/harpalrajput007?tab=repositories**
 
 ---
 
-### ⭐ “Blending creativity with technology to build impactful solutions.”
+## 📊 Live GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harpalrajput007&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpalrajput007&theme=tokyonight&hide_border=false" height="165" />
+</p>
+
+---
+
+## 🔥 GitHub Activity Graph (Animated Glow)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harpalrajput007&theme=react-dark&area=true&hide_border=false" />
+</p>
+
+---
+
+## 🏆 Achievements & Badges (Live)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harpalrajput007&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/harpalrajput007">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harpalsinghrajput007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/harpalrajput007">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ *“Blending creativity with technology to build impactful solutions.”*  
+</p>
