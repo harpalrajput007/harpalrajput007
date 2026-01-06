@@ -1,150 +1,146 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HEADER ===================== -->
 
-<div align="center">
+<h1 align="center">Harpal Rajput</h1>
+<h3 align="center">
+Software Engineer · MERN Full Stack Developer · AI & Analytics
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Harpal%20Rajput&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Product%20Developer%20|%20AI%20%26%20Analytics&descAlignY=55&descSize=20"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harpalrajput007&label=Profile%20Views&color=0d1117&style=flat" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+scalable+products+for+millions;MERN+Stack+%7C+System+Thinking+%7C+Clean+Architecture;Designing+with+clarity%2C+engineering+with+purpose;Focused+on+FAANG+%26+Product+Based+Companies" />
-
-</div>
-
----
-
-<!-- ===================== DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/74038190/216656981-3d7e9c5a-3a30-4e35-bf1d-78c25e6c6d1b.gif" width="100%"/>
-
-## 🧠 PROFESSIONAL SUMMARY
-
-I am a **Computer Science Engineer (AI & Analytics)** with strong foundations in  
-**full-stack development, system design thinking, and product-focused engineering**.
-
-I focus on:
-- Writing **maintainable, scalable code**
-- Designing **user-centric interfaces**
-- Building **real products, not demos**
-- Preparing for **FAANG & top-tier product companies**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Harpal+Rajput+%7C+Software+Engineer;Professional.+Hardworking.+Passionate.;Building+Scalable+Full+Stack+Products;Clean+Code+%7C+System+Thinking+%7C+Product+Mindset;Focused+on+FAANG+%26+Top+Product+Companies" />
+</p>
 
 ---
 
-<!-- ===================== DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/74038190/216656985-9e63f7e4-fc4c-46ff-9f67-9b8a4db6a9c5.gif" width="100%"/>
+## 👋 About Me
 
-## 🛠 TECH STACK (PRODUCTION-FOCUSED)
+I am **Harpal Rajput**, a **Computer Science Engineer (AI & Analytics)** who believes in  
+**clarity over clutter, quality over shortcuts, and impact over hype**.
 
-<div align="center">
+I describe myself as:
+- 💼 **Professional** in approach and communication  
+- ⚙️ **Tech-driven** with strong engineering fundamentals  
+- 🔥 **Hardworking & passionate** about building real products  
+- 🧠 Focused on **long-term growth** and **top-tier companies**
+
+My core strength lies in combining **clean full-stack development** with  
+**thoughtful UI/UX and data-driven thinking**.
+
+---
+
+## 🧠 Core Competencies
+
+- Full Stack Web Development (MERN)
+- REST API Design & Backend Architecture
+- UI/UX Design with Developer Mindset
+- AI & Analytics Foundations
+- Problem Solving & System Thinking
+- Writing clean, maintainable, scalable code
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark"/>
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
 
-### AI / Analytics
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
+### AI & Analytics
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow)
 
-### Engineering Tools
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark"/>
-
-</div>
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-<!-- ===================== DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/74038190/216656989-55b94b70-82d4-4c6b-a38e-96d4c1bfb0c4.gif" width="100%"/>
-
-## 🚀 SELECTED PROJECTS (PRODUCT-GRADE)
+## 🚀 Selected Projects
 
 ### **LakshArth**
-> Investment Management Platform  
-**Tech:** MERN Stack  
-**Focus:** Data modeling, secure APIs, scalable architecture
+**Investment Management Platform**  
+Tech: MERN Stack  
+Focus:
+- Secure REST APIs
+- Data modeling & validation
+- Scalable backend structure
+
+---
 
 ### **Vaarta**
-> Real-time Video Communication Platform  
-**Tech:** WebRTC, Socket.IO  
-**Focus:** Low-latency communication, real-time systems
+**Real-Time Video Meeting Application**  
+Tech: WebRTC, Socket.IO  
+Focus:
+- Real-time communication
+- Low-latency event handling
+- System coordination
+
+---
 
 ### **VisionGPT**
-> AI-Powered Conversational Application  
-**Tech:** JWT, LLM APIs  
-**Focus:** Auth systems, AI integration, UX clarity
+**AI-Powered Chat Application**  
+Tech: JWT, LLM APIs  
+Focus:
+- Authentication systems
+- AI integration
+- Clean conversational UX
+
+---
 
 ### **Safarnama**
-> Travel Listing & Discovery Platform  
-**Tech:** Node.js, MongoDB, EJS  
-**Focus:** MVC architecture, backend logic
+**Travel Listing Platform**  
+Tech: Node.js, MongoDB, EJS  
+Focus:
+- MVC architecture
+- Backend logic & routing
+- Database-driven views
 
-🔗 **All repositories:**  
+🔗 **All Projects:**  
 https://github.com/harpalrajput007?tab=repositories
 
 ---
 
-<!-- ===================== DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/74038190/216656994-4cc3e1fa-6e92-4e3f-8b55-6dfdbe6e1c7e.gif" width="100%"/>
+## 📊 GitHub Insights
 
-## 📊 ENGINEERING CONSISTENCY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harpalrajput007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harpalrajput007&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harpalrajput007&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpalrajput007&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
-<!-- ===================== DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/74038190/216657000-9d6e76ff-4a5d-4a0f-9c0c-77d5e5f7c1c7.gif" width="100%"/>
+## 🏆 Achievements
 
-## 🏆 RECOGNITION & IMPACT
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harpalrajput007&theme=onedark&no-frame=true&row=1&column=6"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harpalrajput007&theme=github_dark&no-frame=true&row=1"/>
+</p>
 
 ---
 
-<!-- ===================== DIVIDER ===================== -->
-<img src="https://user-images.githubusercontent.com/74038190/216657004-8c7c8f08-2c2c-49a8-bb3b-1f6e18a0bb65.gif" width="100%"/>
+## 🌐 Connect With Me
 
-## 🐙 CUSTOM OCTOCAT (ENGINEER MODE)
-
-<div align="center">
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160"/>
-</div>
+- LinkedIn: https://linkedin.com/in/harpalrajput007  
+- Email: harpalsinghrajput007@gmail.com  
+- GitHub: https://github.com/harpalrajput007  
 
 ---
-
-## 🌐 PROFESSIONAL LINKS
-
-<div align="center">
-
-<a href="https://linkedin.com/in/harpalrajput007">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harpalsinghrajput007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/harpalrajput007">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ===================== ASCII SIGNATURE ===================== -->
 
 ```txt
- _   _                       _   ____            _           _
-| | | | __ _ _ __ _ __   __ _| | |  _ \ __ _ _ __| |_ ___ ___| |
-| |_| |/ _` | '__| '_ \ / _` | | | |_) / _` | '__| __/ __/ _ \ |
-|  _  | (_| | |  | |_) | (_| | | |  __/ (_| | |  | || (_|  __/ |
-|_| |_|\__,_|_|  | .__/ \__,_|_| |_|   \__,_|_|   \__\___\___|_|
-                  |_|
-<div align="center">
-Engineering with clarity. Designing with intent. Building for scale.
-</div> ```
+Harpal Rajput
+Software Engineer
+
+Professional. Passionate. Hardworking.
+Building classic, scalable, and impactful technology.
